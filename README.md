@@ -1,2 +1,2 @@
 # webpack-dev-starter
-Empty webpack starter repo
+bare bones webpack dev starter repo
